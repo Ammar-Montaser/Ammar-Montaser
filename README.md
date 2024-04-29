@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ammar Montaser</h1>
 <h3 align="center">Hello, I'm Ammar Montaser! Mobile / Web Developer || AI Enthusiast Passionate about crafting exceptional mobile and web solutions. Fascinated by the potential of artificial intelligence and constantly exploring its applications. Proficient in various programming languages, frameworks, and tools. Let's connect and create something amazing together!</h3>
+<h2 align="center">This is my new Github account as the old one got suspended by Github for being compromised</h2>
+
 
 - 🔭 I’m currently working on [The Hub V2](https://effortless-salmiakki-05ecac.netlify.app/)
 
